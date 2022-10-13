@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "title": "myFistPost",
+      "author": "I am Autor",
+      "id": 4
+    },
+    {
+      "title": "Shit harren",
+      "author": "folk",
+      "id": 5
+    },
+    {
+      "title": "About other",
+      "author": "with out autor",
+      "id": 6
+    },
+    {
+      "title": "Somthing in paticular",
+      "author": "mad man",
+      "id": 7
+    },
+    {
+      "title": "Somthing in paticular",
+      "author": "mad man",
+      "id": 8
+    },
+    {
+      "title": "Somthing in paticular",
+      "author": "mad man",
+      "id": 9
+    },
+    {
+      "title": "Somthing in paticular",
+      "author": "mad man",
+      "id": 10
+    },
+    {
+      "title": "Somthing in paticular",
+      "author": "mad man",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
